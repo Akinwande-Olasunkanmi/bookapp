@@ -1,0 +1,18 @@
+body{
+    background: url(/assets/img/pexels-element-digital-1370295.jpg);
+    opacity: 0.9;
+    z-index: -100;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.error{
+    background: tomato;
+    color: white;
+    padding: .5rem;
+}
+.success{
+    background: seagreen;
+    color: white;
+    padding: .5rem;
+}
